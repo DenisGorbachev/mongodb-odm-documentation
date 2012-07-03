@@ -21,7 +21,7 @@ Inheritance).
 
 .. note::
 
-    A mapped superclass cannot be a document and is not query able.
+    A mapped superclass cannot be a document, cannot be the top of inheritance hierarchy, and is not query able.
 
 Example:
 
